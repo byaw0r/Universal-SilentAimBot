@@ -29,7 +29,7 @@ UICorner.Parent = hitboxBtn
 local espConnection
 local originalSizes = {}
 local originalTransparencies = {}
-local hitboxSize = 20
+local hitboxSize = 25
 
 local function getHead(character)
     return character:FindFirstChild("Head")
